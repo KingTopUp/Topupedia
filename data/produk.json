@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mlbb",
+    "name": "Mobile Legends",
+    "image": "assets/images/mlbb.png",
+    "link": "https://www.topupedia.com/id-i/mobile-legends?ref=m4rauxd6asy5"
+  },
+  {
+    "id": "freefire",
+    "name": "Free Fire",
+    "image": "assets/images/freefire.png",
+    "link": "https://www.topupedia.com/id-i/free-fire?ref=m4rauxd6asy5"
+  },
+  {
+    "id": "pubg",
+    "name": "PUBG Mobile",
+    "image": "assets/images/pubg.png",
+    "link": "https://www.topupedia.com/id-i/pubg-mobile?ref=m4rauxd6asy5"
+  },
+  {
+    "id": "valorant",
+    "name": "Valorant",
+    "image": "assets/images/valorant.png",
+    "link": "https://www.topupedia.com/id-i/valorant?ref=m4rauxd6asy5"
+  },
+  {
+    "id": "genshin",
+    "name": "Genshin Impact",
+    "image": "assets/images/genshin.png",
+    "link": "https://www.topupedia.com/id-i/genshin-impact?ref=m4rauxd6asy5"
+  }
+]
